@@ -1,7 +1,7 @@
 Rubrix Rex
 =============
 [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) <br>
-[*web application*](https://rubrixrex.eric.hosting/) <br>
+[*web application*](http://rubrixrex.eric.hosting/) <br>
 
 Create and manage curriculum. <br>
 
