@@ -3,6 +3,9 @@ Rubrix Rex
 [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) <br>
 [*web application*](http://rubrixrex.eric.hosting/) <br>
 
+[Design Sketches](http://imgur.com/a/Qtl4h) <br>
+[Prototype](http://imgur.com/a/LDfSm)
+
 Create and manage curriculum. <br>
 
 This project was made by [Kase Tebo](https://github.com/KaseKreative), [Hilson Francis](https://github.com/hilsonf), [Andrew Sorensen](https://github.com/SorensenAndrew) and myself. <br>
