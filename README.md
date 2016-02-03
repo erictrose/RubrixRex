@@ -3,6 +3,8 @@ Rubrix Rex
 [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) <br>
 [*web application*](http://rubrixrex.eric.hosting/) <br>
 
+![Image of rubrix rex](http://imgur.com/wqRgR3d.png) <br>
+
 [Design Sketches](http://imgur.com/a/Qtl4h) <br>
 [Prototype](http://imgur.com/a/LDfSm)
 
